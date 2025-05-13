@@ -6,16 +6,16 @@
 <h1 align="center">💻 Wesley Medeiros - Desenvolvedor Web Fullstack Júnior</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=7D25CF&center=true&width=435&lines=Front-End+e+Back-End+Developer;Apaixonado+por+tecnologia;Entusiasta+de+linguagens+e+tecnologias" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=7D25CF&center=true&width=435&lines=Front-End+e+Back-End+Developer;Apaixonado+por+tecnologia;Entusiasta+de+idiomas+e+tecnologias" alt="Typing SVG" />
 </p>
 ---
 
 ## 👨‍🚀 Sobre mim
 
-Meu nome é **Wesley Medeiros da Rosa**, tenho 27 anos e sou movido pela paixão em transformar ideias em código.  
+Meu nome é **Wesley Medeiros da Rosa**, tenho 27 anos pronto para transformar ideias em código.  
 Estou há cerca de um ano imerso no universo do desenvolvimento web, estudando e aplicando conceitos sólidos de **Frontend e Backend**.
 
-Sou autodidata, tenho **ensino médio completo** e sou apaixonado por idiomas — com fluência **C1 em Inglês** e **B1 em Espanhol** segundo o CEFR.  
+Sou autodidata, tenho **ensino médio completo** e sou apaixonado pelo estudo de idiomas — com fluência **C1 em Inglês** e **B1 em Espanhol** segundo o CEFR.  
 Busco construir aplicações modernas, responsivas e acessíveis, sempre focado em boas práticas e aprendizado contínuo.
 
 ---
@@ -49,11 +49,11 @@ Busco construir aplicações modernas, responsivas e acessíveis, sempre focado 
 
 ## 📌 Repositórios em destaque
 
-🔹 [Portfólio Pessoal](https://tinyurl.com/meu-portifolio-projetos)  
-🔹 [Site para download de livros](https://free-books-download.vercel.app/)
-🔹 [Clone do Spotify com React](https://free-books-download.vercel.app/)
-🔹 [Consumo de API com React, Axios e Firebase](https://github.com/DevWesleyMedeiros/Login-firebase)
-🔹 [Projeto Vitrine de Motos com PHP e MySQL](https://github.com/DevWesleyMedeiros/projeto-vitrine-motos)
+1.🔹 [Portfólio Pessoal](https://tinyurl.com/meu-portifolio-projetos)  
+2.🔹 [Site para download de livros](https://free-books-download.vercel.app/)
+3.🔹 [Clone do Spotify](https://free-books-download.vercel.app/)
+4.🔹 [Consumo de API](https://github.com/DevWesleyMedeiros/Login-firebase)
+5.🔹 [Projeto Vitrine de Motos](https://github.com/DevWesleyMedeiros/projeto-vitrine-motos)
 
 
 ---
