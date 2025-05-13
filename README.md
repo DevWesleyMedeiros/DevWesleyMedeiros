@@ -12,7 +12,7 @@
 
 ## 👨‍🚀 Sobre mim
 
-Meu nome é **Wesley Medeiros da Rosa**, tenho 27 anos pronto para transformar ideias em código.  
+Meu nome é **Wesley Medeiros da Rosa**, tenho 27 anos e estou pronto para transformar ideias em código.  
 Estou há cerca de um ano imerso no universo do desenvolvimento web, estudando e aplicando conceitos sólidos de **Frontend e Backend**.
 
 Sou autodidata, tenho **ensino médio completo** e sou apaixonado pelo estudo de idiomas — com fluência **C1 em Inglês** e **B1 em Espanhol** segundo o CEFR.  
