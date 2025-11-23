@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">💻 Wesley Medeiros - Desenvolvedor Web Fullstack Júnior</h1>
+<h1 align="center">💻 Wesley Medeiros - Desenvolvedor Web Front-end Júnior</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=7D25CF&center=true&width=435&lines=Front-End+e+Back-End+Developer;Apaixonado+por+tecnologias;Entusiasta+de+idiomas" alt="Typing SVG" />
