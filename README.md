@@ -57,7 +57,7 @@ Busco construir aplicações modernas, responsivas e acessíveis focadas em Reac
 ## 📬 Contato
 
 - 📧 E-mail: [devwesleymedeiros@outlook.com](mailto:devwesleymedeiros@outlook.com)  
-- 💼 [LinkedIn](https://rebrand.ly/meu-Linkedin)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/weslei-medeiros/)  
 - 🌐 [Portfólio](https://my-portfolio-kohl-tau-60.vercel.app/)
 
 ---
@@ -77,7 +77,6 @@ Busco construir aplicações modernas, responsivas e acessíveis focadas em Reac
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevWesleyMedeiros&layout=compact&theme=radical&hide_border=true&bg_color=000000" alt="Linguagens mais usadas" />
   </p>
 </div>
-
 
 ---
 
