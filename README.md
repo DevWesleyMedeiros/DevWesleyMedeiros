@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">💻 Wesley Medeiros - Desenvolvedor Web Front-end Júnior</h1>
+<h1 align="center">💻 Wesley Medeiros - Desenvolvedor Web Frontend Júnior</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=7D25CF&center=true&width=435&lines=Front-End+e+Back-End+Developer;Apaixonado+por+tecnologias;Entusiasta+de+idiomas" alt="Typing SVG" />
@@ -12,15 +12,15 @@
 
 ## 👨‍🚀 Sobre mim
 
-Meu nome é **Wesley Medeiros da Rosa**, tenho 27 anos e estou pronto para transformar ideias em código.  
-Estou há cerca de um ano imerso no universo do desenvolvimento web, estudando e aplicando conceitos sólidos de **Frontend e Backend**.
+Meu nome é **Wesley Medeiros da Rosa**, tenho 28 anos e estou pronto para transformar ideias em código.  
+Estou há cerca de um ano e meio imerso no universo do desenvolvimento web, estudando e aplicando conceitos sólidos de **Frontend e um pouco de Backend**.
 
-Sou autodidata, tenho **ensino médio completo** e sou apaixonado pelo estudo de idiomas — com fluência **C1 em Inglês** e **B1 em Espanhol** segundo o CEFR.  
-Busco construir aplicações modernas, responsivas e acessíveis, sempre focado em boas práticas e aprendizado contínuo.
+Sou autodidata, tenho **ensino médio completo** e sou apaixonado pelo estudo de idiomas — com fluência **C1 em inglês** e **B1 em espanhol** segundo o CEFR.  
+Busco construir aplicações modernas, responsivas e acessíveis focadas em React & Typescript, seguindo práticas modernas de desenvolvimento e aprendizado contínuo.
 
 ---
 
-## 🚀 Tecnologias que trabalho
+## 🚀 Master
 
 ### 👨‍💻 Domínio:
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -32,12 +32,13 @@ Busco construir aplicações modernas, responsivas e acessíveis, sempre focado 
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
-### 📚 Em aprendizado:
+### 📚 work on:
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![API REST](https://img.shields.io/badge/API-REST-orange?style=flat-square&logo=api&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -49,12 +50,7 @@ Busco construir aplicações modernas, responsivas e acessíveis, sempre focado 
 
 ## 📌 Repositórios em destaque
 
-1.🔹 [Portfólio Pessoal](https://tinyurl.com/meu-portifolio-projetos)  
-2.🔹 [Site para download de livros](https://free-books-download.vercel.app/)
-3.🔹 [Clone do Spotify](https://free-books-download.vercel.app/)
-4.🔹 [Consumo de API](https://github.com/DevWesleyMedeiros/Login-firebase)
-5.🔹 [Projeto Vitrine de Motos](https://github.com/DevWesleyMedeiros/projeto-vitrine-motos)
-
+1.🔹 [Portfólio Pessoal](https://my-portfolio-kohl-tau-60.vercel.app/)  
 
 ---
 
@@ -62,7 +58,7 @@ Busco construir aplicações modernas, responsivas e acessíveis, sempre focado 
 
 - 📧 E-mail: [devwesleymedeiros@outlook.com](mailto:devwesleymedeiros@outlook.com)  
 - 💼 [LinkedIn](https://rebrand.ly/meu-Linkedin)  
-- 🌐 [Portfólio](https://tinyurl.com/meu-portifolio-projetos)
+- 🌐 [Portfólio](https://my-portfolio-kohl-tau-60.vercel.app/)
 
 ---
 
