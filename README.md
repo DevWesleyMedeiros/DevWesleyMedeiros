@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8010e8&height=200&section=header&text=DevWesleyMedeiros%20👨‍💻&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=Desenvolvedor%20Web%20Fullstack%20Júnior&descSize=20&descAlignY=60&animation=fadeIn" />
+  <img src="https://raw.githubusercontent.com/DevWesleyMedeiros/DevWesleyMedeiros/main/assets/banner.png" alt="Wesley Medeiros - Desenvolvedor Web Fullstack" width="100%" />
 </p>
-
 
 <h1 align="center">💻 Wesley Medeiros - Desenvolvedor Web Fullstack Júnior</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=7D25CF&center=true&width=435&lines=Front-End+e+Back-End+Developer;Apaixonado+por+tecnologias;Entusiasta+de+idiomas" alt="Typing SVG" />
 </p>
+
 ---
 
 ## 👨‍🚀 Sobre mim
@@ -32,7 +32,7 @@ Busco construir aplicações modernas, responsivas e acessíveis focadas em Reac
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
-### 📚 work on:
+### 📚 Work on:
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -50,7 +50,7 @@ Busco construir aplicações modernas, responsivas e acessíveis focadas em Reac
 
 ## 📌 Repositórios em destaque
 
-1.🔹 [Portfólio Pessoal](https://my-portfolio-kohl-tau-60.vercel.app/)  
+1. 🔹 [Portfólio Pessoal](https://my-portfolio-kohl-tau-60.vercel.app/)
 
 ---
 
@@ -63,8 +63,6 @@ Busco construir aplicações modernas, responsivas e acessíveis focadas em Reac
 ---
 
 ## 📊 Estatísticas
-
-
 
 <div align="center">
   <h3 align="center" style="color:#a64ef4;">📊 Minhas Estatísticas no GitHub</h3>
@@ -90,7 +88,6 @@ Busco construir aplicações modernas, responsivas e acessíveis focadas em Reac
   </p>
 </div>
 
-
 ---
 
 ## 📈 Atividade recente
@@ -102,8 +99,7 @@ Busco construir aplicações modernas, responsivas e acessíveis focadas em Reac
 </p>
 
 ---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7d25cf,100:8010e8&height=100&section=footer"/>
 </p>
-
-
