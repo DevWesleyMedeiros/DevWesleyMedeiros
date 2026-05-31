@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DevWesleyMedeiros/DevWesleyMedeiros?main/assets/banner.png" alt="Wesley Medeiros - Desenvolvedor Web Fullstack" width="100%" />
+  <img src="https://raw.githubusercontent.com/DevWesleyMedeiros/DevWesleyMedeiros?master/assets/banner.png" alt="Wesley Medeiros - Desenvolvedor Web Fullstack" width="100%" />
 </p>
 
 <h1 align="center">💻 Wesley Medeiros - Desenvolvedor Web Fullstack Júnior</h1>
