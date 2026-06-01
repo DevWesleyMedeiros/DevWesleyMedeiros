@@ -49,7 +49,6 @@ Tenho fluência **C1 em inglês** e nível **B1 em espanhol** (CEFR), o que faci
 
 <h4>Backend</h4>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![API REST](https://img.shields.io/badge/API_REST-FF6F00?style=for-the-badge&logo=swagger&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
