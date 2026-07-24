@@ -94,15 +94,15 @@ Tenho fluência **C1 em inglês** e nível **B1 em espanhol** (CEFR), o que faci
   </a>
 </div>
 
-<h3>meu-portfólio (my-portfolio)</h3>
+<h3>meu portfólio (my-portfolio)</h3>
 
 - Página de divulgação dos meus projetos pessoais e presença online.
-- Demo: https://my-portfolio-kohl-tau-60.vercel.app/
+- Demo: https://my-portfolio-react-refector.vercel.app/
 
 <h3>casa-do-hamburger</h3>
 
 - Projeto em TypeScript focado em prática e evolução de arquitetura/organização de código.
-- Repositório: https://github.com/DevWesleyMedeiros/casa-do-hamburger
+- Repositório: https://casa-do-hamburger.vercel.app/
 
 ---
 
