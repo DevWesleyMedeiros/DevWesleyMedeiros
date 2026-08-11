@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Wesley Medeiros - Desenvolvedor Fullstack" width="100%" />
+  <img src="./assets/banner-update.png" alt="Wesley Medeiros - Desenvolvedor Fullstack" width="100%" />
 </p>
 
 <h1 align="center">Wesley Medeiros</h1>
